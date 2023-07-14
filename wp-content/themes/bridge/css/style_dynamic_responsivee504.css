@@ -1,0 +1,50 @@
+		@media only screen and (max-width: 1000px){
+										}
+		@media only screen and (min-width: 480px) and (max-width: 768px){
+
+					section.parallax_section_holder{
+			height: auto !important;
+			min-height: 400px;
+			}
+						}
+		@media only screen and (max-width: 768px){
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		}
+		@media only screen and (max-width: 600px) {
+					h1, h1 a, body.qode-overridden-elementors-fonts .elementor-widget-heading h1.elementor-heading-title {
+			font-size: 39px; 			line-height: 46px; 			letter-spacing: -0.25px; 			}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				}
+		@media only screen and (max-width: 480px){
+
+					section.parallax_section_holder {
+			height: auto !important;
+			min-height: 400px;
+			}
+		
+				
+				}
+		
+		
+	
